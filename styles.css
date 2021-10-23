@@ -28,7 +28,7 @@ body {
         transform: translateX(0px);
     }
     100% {
-        transform: translateX(1600px);
+        transform: translateX(1550px);
     }
 }
 
