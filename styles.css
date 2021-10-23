@@ -1,3 +1,23 @@
 body {
-    background: ;
+    background: url("../Assets/road.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
+
+#runner {
+    margin-top: 18%;
+    background: url("../Assets/walk.png");
+    width: 70px;
+    height: 130px;
+    animation: walk 1s steps(8) infinite, forward 10s linear infinite;
+}
+
+@keyframes walk {
+    0% {
+        background-position: 0px;
+    }
+    100% {
+        background-position: -600px;
+    }
+}
+
