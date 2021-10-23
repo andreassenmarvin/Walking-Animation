@@ -1,5 +1,5 @@
 # Walking Animation
-### Animation web app for a walking man.
+#### Animation web app for a walking man.
 ## Demo
 ![Website image](/Assets/README/S1.png)
 ![Website image](/Assets/README/S2.png)
