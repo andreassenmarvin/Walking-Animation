@@ -1,5 +1,5 @@
 body {
-    background: url("../Assets/road.png");
+    background: url("./Assets/road.png");
     background-size: 100%;
     background-repeat: no-repeat;
     max-width: 100vw;
@@ -8,7 +8,7 @@ body {
 
 #runner {
     margin-top: 18%;
-    background: url("../Assets/walk.png");
+    background: url("./Assets/walk.png");
     width: 70px;
     height: 130px;
     animation: walk 1s steps(8) infinite, forward 10s linear infinite;
