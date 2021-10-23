@@ -6,7 +6,7 @@ body {
     overflow-x: hidden;
 }
 
-#runner {
+#walker {
     margin-top: 18%;
     background: url("Assets/walk.png");
     width: 70px;
